@@ -16,7 +16,7 @@ header, .me { padding: 0 0.5em; color: #C90B0B; }
 header img, .me img { border-radius: 40px; float: left; }
 header p, .me p { font-size:1.5em; font-weight: bold; padding-left: 4em;}
 header p span, .me p span { font-size: 0.8em; font-weight: normal;}
-.me img {float:right}
+.me img {float:right;}
 .me p{text-align: right; padding-right: 4em;}
 
 .hero { padding: 2em; background-color: #f8f8f8; font-size:1.2em;
